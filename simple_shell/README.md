@@ -1,2 +1,2 @@
 # to excute 
-##gcc simple_shell.c -lreadline
+#gcc simple_shell.c -lreadline
